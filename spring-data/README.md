@@ -14,3 +14,12 @@
 
 ### rodando a aplicação
 - SpringDataApplication - rodar como aplicação java
+
+### Tipos de repositórios
+- camada da aplicação que se relaciona c/ o bd via queries
+- Repository
+- CRUD Repository : realiza métodos CRUD s/ necessidade de crir os objetos JPA
+
+### Injeção de Dependência
+- não da pra dar new em interfaces
+- 
